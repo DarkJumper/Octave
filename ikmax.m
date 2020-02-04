@@ -1,0 +1,1 @@
+clearclcmore off##KomentarzeileprintHeader(mfilename)UN=400;  w3=sqrt(3.0); cmax=1.1;##ZQ1=43.7e-6+j*438e-6;ZT1=3.4e-3+j*9.6e-3;ZL1=7.54e-3+j*7.98e-3;ZM=91.4e-3+j*217.7e-3;ZL2= 2*ZL1;ZL3=3*ZL1;##printLine("Zkmax")Zkmax=par(ZL3+ZM,ZL2 + par(ZM,ZL1+ZT1+ZQ1)) #par muss immer vorgezogen werden deswegen ZM in par drin##Ikmax=UN*cmax/(w3*Zkmax)printpol(Ikmax,"A")
