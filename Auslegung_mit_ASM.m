@@ -1,0 +1,1 @@
+## Auslegung mit ASM Klassenarbeit übungclcclearmore offprintHeader(mfilename)##r = 10; # radius in cmkgmax = 40;  #kgreibung = 0.1;

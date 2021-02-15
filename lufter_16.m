@@ -1,0 +1,1 @@
+clearclcmore offprintHeader(mfilename)##vp = 3.3e3;etaM = 0.85;deltap = 2e3;Pn0 = (vp * deltap)/etaM
