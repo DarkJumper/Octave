@@ -1,0 +1,1 @@
+clcclearmore offprintHeader(mfilename);##     PN  =75e3;NN = 1475;MN = PN/(2*pi*(NN/60))CPN = 0.875;IN = 139;UN = 380;MAMN = 2;IAIN = 7;MKMN = 2.2;ETAN = PN/(sqrt(3.0)*UN*IN*CPN)NAME = ("Schorch ALT");SOK ( PN, NN, MN,ETAN, CPN, IN, MAMN, IAIN, MKMN, UN, NAME )
